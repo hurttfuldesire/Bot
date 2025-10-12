@@ -86,4 +86,4 @@ class TicketDropdown(discord.ui.Select):
         # -----------------------------
         # RUN BOT
         # -----------------------------
-        bot.run("MTQyNDQ1NjUzMTc1MTIwNjk5Mg.GPNUHx.cQHTt7C7Ta8Sz8VdA6znuzoHKgHHTZ8RA1T2x0")
+        bot.run("MTQyNDQ1NjUzMTc1MTIwNjk5Mg.GUYIOz.Li6GgojZdWPrpK6v64iMW3SPn7qF8nds8NsCAs")
